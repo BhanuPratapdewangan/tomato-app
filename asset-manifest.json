@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tomato-app/static/css/main.08cf2252.css",
+    "main.js": "/tomato-app/static/js/main.7e4ca95e.js",
+    "static/js/787.5e9566e4.chunk.js": "/tomato-app/static/js/787.5e9566e4.chunk.js",
+    "index.html": "/tomato-app/index.html",
+    "main.08cf2252.css.map": "/tomato-app/static/css/main.08cf2252.css.map",
+    "main.7e4ca95e.js.map": "/tomato-app/static/js/main.7e4ca95e.js.map",
+    "787.5e9566e4.chunk.js.map": "/tomato-app/static/js/787.5e9566e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08cf2252.css",
+    "static/js/main.7e4ca95e.js"
+  ]
+}
